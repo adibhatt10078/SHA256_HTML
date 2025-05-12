@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>SHA256 Hasher</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="libs/bootstrap.min.css">
+  <script src="libs/angular.min.js"></script>
+  <script src="libs/crypto-js.min.js"></script>
+  <script src="app.js"></script>
+</head>
+<body ng-app="hashApp">
+  <div ng-controller="HashController">
+    <div class="container py-5">
+    <h2 class="text-center mb-4">SHA256 Hasher</h2>
+
+    <div class="mb-3">
+      <label for="inputText" class="form-label">Enter text to hash:</label>
+      <input type="text" class="form-control" id="inputText" ng-model="inputText" placeholder="Type something...">
+    </div>
+
+    <div class="d-grid mb-3">
+      <button class="btn btn-primary" ng-click="generateHash()">Generate SHA256 Hash</button>
+    </div>
+
+    <div class="result" ng-if="hashedText">
+      <h5>Hashed Output:</h5>
+      <div class="result-box">{{ hashedText }}</div>
+    </div>
+  </div>
+  </div>
+</body>
+</html>
