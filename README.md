@@ -31,6 +31,7 @@ sha256-hasher/
 │   └── SHA256 Hasher Web.png # Screenshot of output 
 └── README.md                 # Project documentation
 ```
+
 ---
 
 # `How to Use`
@@ -41,6 +42,7 @@ sha256-hasher/
    - Type your input in the field
    - Click the "Generate SHA256 Hash" button
    - The result appears below
+
 ---
 
 # `Dependencies`
@@ -48,15 +50,18 @@ sha256-hasher/
 - [AngularJS 1.8.2](https://angularjs.org/)
 - [Bootstrap 5](https://getbootstrap.com/)
 - [CryptoJS](https://github.com/brix/crypto-js)
+
 ---
 
-# Screenshots
+# `Screenshots`
 
 ![SHA256 Hasher Screenshot](SHA256_web/screenshot/SHA256%20Hasher%20Web.png)
+
 ---
 
 # `Notes`
 
 - SHA256 is a one-way cryptographic hash — it's irreversible.
 - This app is for educational and basic use. For secure password handling, use salted hashes with algorithms like bcrypt or Argon2.
+
 ---
