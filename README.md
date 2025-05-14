@@ -1,12 +1,21 @@
-# `SHA256 Hasher (AngularJS + Bootstrap)`
-A lightweight, responsive web app built with AngularJS and Bootstrap 5 that allows users to generate SHA256 hashes from input strings.
+
+# `SHA256 Hasher (AngularJS + CryptoJS)`
+
+This is a simple web-based SHA256 hashing tool built with **AngularJS**, **CryptoJS**, and **Bootstrap**. It allows users to input text and generate a SHA256 hash of the content.
+
 ---
 
 # `Features`
- - Input any text and generate its SHA256 hash instantly
- - Fully responsive layout using Bootstrap 5
- - Real-time hashing with `crypto-js`
- - Modular structure with clean code separation
+
+- Input any text or string
+- Generate secure SHA256 hash using `crypto-js`
+- Fully responsive layout using Bootstrap 5
+- Input any text and generate its SHA256 hash instantly
+- Validation for empty input
+- Reset button to clear input and output
+- Modular structure with clean code separation
+
+---
 
 # `Folder Structure`
 ```bash
@@ -18,6 +27,8 @@ sha256-hasher/
 │   ├── angular.min.js        # AngularJS framework
 │   └── bootstrap.min.css     # Bootstrap styling
 │   └── crypto-js.min.js      # SHA256 hashing library
+├── screenshot/
+│   └── SHA256 Hasher Web.png # Screenshot of output 
 └── README.md                 # Project documentation
 ```
 ---
@@ -37,4 +48,15 @@ sha256-hasher/
 - [AngularJS 1.8.2](https://angularjs.org/)
 - [Bootstrap 5](https://getbootstrap.com/)
 - [CryptoJS](https://github.com/brix/crypto-js)
+---
+
+# Screenshots
+
+![SHA256 Hasher Screenshot](screenshot/SHA256 Hasher Web.png)
+---
+
+# `Notes`
+
+- SHA256 is a one-way cryptographic hash — it's irreversible.
+- This app is for educational and basic use. For secure password handling, use salted hashes with algorithms like bcrypt or Argon2.
 ---
