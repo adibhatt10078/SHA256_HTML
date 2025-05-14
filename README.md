@@ -52,7 +52,7 @@ sha256-hasher/
 
 # Screenshots
 
-![SHA256 Hasher Screenshot](screenshot/SHA256%20Hasher%20Web.png)
+![SHA256 Hasher Screenshot](SHA256_web/screenshot/SHA256%20Hasher%20Web.png)
 ---
 
 # `Notes`
